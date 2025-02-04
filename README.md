@@ -64,9 +64,10 @@ This project uses the following Python libraries:
 This project demonstrates how clustering and predictive modeling can effectively identify and mitigate patient churn in a healthcare setting. By prioritizing high-risk patients for targeted engagement, clinics can not only enhance patient outcomes but also protect their revenue from the financial impact of no-shows and churn.
 
 ## License
-
 This project is licensed under the MIT License.
 
----
+## Contact
+For questions or feedback, feel free to reach out:
+- **Email:** Adam.RivardWalter@gmail.com  
+- **GitHub:** [adamw80](https://github.com/adamw80)
 
-Feel free to modify the repository link and add any additional details specific to your project setup!
